@@ -1,6 +1,35 @@
 # recommender-systems
+
 Implementing various Recommender Systems for [Amazon review data](https://nijianmo.github.io/amazon/index.html).
 
+### Installation
+
+Apart from cloning the repository, a Python interpreter (version `3.8` or greater) is also required.
+
+```shell
+python3 -m pip install poetry
+```
+This will install the project's dependency manager, [poetry](https://python-poetry.org/).
+
+To install the project dependencies, type:
+
+```shell
+poetry run python -m pip install --upgrade pip
+```
+
+and then:
+
+```shell
+poetry install
+```
+
+### Reproduction
+
+To run any available Jupyter notebook, you can do so through:
+
+```shell
+poetry run jupyter notebook
+```
 
 ## Citation
 
