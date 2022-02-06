@@ -3,7 +3,13 @@ name = "recommender-systems"
 version = "0.1.0"
 description = "Implementing various Recommender Systems for Amazon review data."
 authors = ["Ilias Antonopoulos <ilias.antonopoulos@yahoo.gr>"]
+readme = "README.md"
 license = "MIT"
+repository = "https://github.com/ilias-ant/recommender-systems"
+keywords = ["recommender-systems"]
+
+[tool.poetry.urls]
+"Bug Tracker" = "https://github.com/ilias-ant/recommender-systems/issues"
 
 [tool.poetry.dependencies]
 python = "^3.8"
