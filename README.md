@@ -1,5 +1,5 @@
 # recommender-systems
-Implementing various Recommender Systems for Amazon review data.
+Implementing various Recommender Systems for [Amazon review data](https://nijianmo.github.io/amazon/index.html).
 
 
 ## Citation

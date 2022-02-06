@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "recommender-systems"
+version = "0.1.0"
+description = "Implementing various Recommender Systems for Amazon review data."
+authors = ["Ilias Antonopoulos <ilias.antonopoulos@yahoo.gr>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+notebook = "^6.4.8"
+black-nb = "^0.7"
+pandas = "^1.4.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
