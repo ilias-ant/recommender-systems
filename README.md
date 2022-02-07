@@ -2,6 +2,9 @@
 
 Implementing various Recommender Systems for [Amazon review data](https://nijianmo.github.io/amazon/index.html) as well as [MovieLens](https://grouplens.org/datasets/movielens/).
 
+This project was part of the course **Recommender Systems** at the MSc in Data Science of AUEB, carried out 
+during the Winter Quarter 2021-22.
+
 ### Installation
 
 Apart from cloning the repository, a Python interpreter (version `3.8` or greater) is also required.
