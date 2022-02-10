@@ -38,7 +38,7 @@ poetry run jupyter notebook
 
 For the Amazon review dataset:
 
-~~~
+```bibtex
 @inproceedings{ni-etal-2019-justifying,
     title = "Justifying Recommendations using Distantly-Labeled Reviews and Fine-Grained Aspects",
     author = "Ni, Jianmo  and
@@ -54,7 +54,7 @@ For the Amazon review dataset:
     pages = "188--197",
     abstract = "Several recent works have considered the problem of generating reviews (or {`}tips{'}) as a form of explanation as to why a recommendation might match a customer{'}s interests. While promising, we demonstrate that existing approaches struggle (in terms of both quality and content) to generate justifications that are relevant to users{'} decision-making process. We seek to introduce new datasets and methods to address the recommendation justification task. In terms of data, we first propose an {`}extractive{'} approach to identify review segments which justify users{'} intentions; this approach is then used to distantly label massive review corpora and construct large-scale personalized recommendation justification datasets. In terms of generation, we are able to design two personalized generation models with this data: (1) a reference-based Seq2Seq model with aspect-planning which can generate justifications covering different aspects, and (2) an aspect-conditional masked language model which can generate diverse justifications based on templates extracted from justification histories. We conduct experiments on two real-world datasets which show that our model is capable of generating convincing and diverse justifications.",
 }
-~~~
+```
 
 For the MovieLens dataset:
 
