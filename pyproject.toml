@@ -16,8 +16,10 @@ python = "^3.8"
 
 [tool.poetry.dev-dependencies]
 black-nb = "^0.7"
+mizani = "^0.7.3"
 notebook = "^6.4.8"
 pandas = "^1.4.0"
+plotnine = "^0.8.0"
 scikit-learn = "^1.0.2"
 
 [build-system]
