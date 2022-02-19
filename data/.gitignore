@@ -1,3 +1,4 @@
 *.json.gz
+*.json.gz.*
 *.zip
 material/

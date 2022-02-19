@@ -13,14 +13,16 @@ keywords = ["recommender-systems"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+mizani = "~0.7.3"
+nltk = "~3.7"
+pandas = "~1.4.0"
+plotnine = "~0.8.0"
+scikit-learn = "~1.0.2"
+scikit-surprise = "~1.1.1"
 
 [tool.poetry.dev-dependencies]
 black-nb = "^0.7"
-mizani = "^0.7.3"
 notebook = "^6.4.8"
-pandas = "^1.4.0"
-plotnine = "^0.8.0"
-scikit-learn = "^1.0.2"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
