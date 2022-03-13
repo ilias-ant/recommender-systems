@@ -1,4 +1,6 @@
 *.json.gz
 *.json.gz.*
 *.zip
+*/*.csv
+*/*.txt
 material/

@@ -23,6 +23,7 @@ tensorflow = "^2.8.0"
 pydot = "^1.4.2"
 graphviz = "^0.19.1"
 matplotlib = "^3.5.1"
+tensorflow-federated = "^0.20.0"
 
 [tool.poetry.dev-dependencies]
 black-nb = "^0.7"
