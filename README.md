@@ -56,6 +56,23 @@ For the Amazon review dataset:
 }
 ```
 
+For the Surprise library:
+
+```bibtex
+@article{Hug2020,
+  doi = {10.21105/joss.02174},
+  url = {https://doi.org/10.21105/joss.02174},
+  year = {2020},
+  publisher = {The Open Journal},
+  volume = {5},
+  number = {52},
+  pages = {2174},
+  author = {Nicolas Hug},
+  title = {Surprise: A Python library for recommender systems},
+  journal = {Journal of Open Source Software}
+}
+```
+
 For the MovieLens dataset:
 
 > F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. <https://doi.org/10.1145/2827872>
