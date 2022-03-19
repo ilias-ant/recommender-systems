@@ -6,7 +6,7 @@ authors = ["Ilias Antonopoulos <ilias.antonopoulos@yahoo.gr>"]
 readme = "README.md"
 license = "MIT"
 repository = "https://github.com/ilias-ant/recommender-systems"
-keywords = ["recommender-systems"]
+keywords = ["collaborative-filtering", "recommender-systems", "federated-learning", "deep-matrix-factorization", "movielens"]
 
 [tool.poetry.urls]
 "Bug Tracker" = "https://github.com/ilias-ant/recommender-systems/issues"
@@ -14,15 +14,15 @@ keywords = ["recommender-systems"]
 [tool.poetry.dependencies]
 python = ">=3.8,<3.11"
 
+graphviz = "~0.19.1"
+matplotlib = "~3.5.1"
 mizani = "~0.7.3"
 nltk = "~3.7"
 pandas = "~1.4.0"
 plotnine = "~0.8.0"
+pydot = "~1.4.2"
 scikit-learn = "~1.0.2"
 scikit-surprise = "~1.1.1"
-pydot = "~1.4.2"
-graphviz = "~0.19.1"
-matplotlib = "~3.5.1"
 tensorflow = "~2.8.0"
 tensorflow-federated = "~0.20.0"
 

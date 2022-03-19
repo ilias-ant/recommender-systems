@@ -2,13 +2,17 @@
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/ilias-ant/recommender-systems/tree/main) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) 
 
-Implementing various Recommender Systems for [Amazon review data](https://nijianmo.github.io/amazon/index.html) as well as [MovieLens](https://grouplens.org/datasets/movielens/).
+Implementing various Recommender Systems for [Amazon review data](https://nijianmo.github.io/amazon/index.html) as well as [MovieLens](https://grouplens.org/datasets/movielens/):
+
+- [Content-Based RS](https://github.com/ilias-ant/recommender-systems/blob/main/content-based-RS.ipynb)
+- [Collaborative Filtering RS](https://github.com/ilias-ant/recommender-systems/blob/main/collab-filtering-RS.ipynb)
+- [Hybrid RS (combining the previous two)](https://github.com/ilias-ant/recommender-systems/blob/main/hybrid-RS.ipynb)
+- [Deep-Matrix-Factorization-Based RS](https://github.com/ilias-ant/recommender-systems/blob/main/deep-learning-based-RS.ipynb)
+- [Matrix-Factorization-Based RS with Federated Learning setting](https://github.com/ilias-ant/recommender-systems/blob/main/federated-learning-based-RS.ipynb)
 
 This project was part of the course **Recommender Systems** at the MSc in Data Science of AUEB, carried out during the Winter Quarter 2021-22.
 
-<img src="static/mf_factors.png" width="100%">
-
-
+<img src="static/mf_factors.png" width="100%" text="source: Courtesy of Jacob Schreiber, used without permission, taken from: https://www.oreilly.com/content/deep-matrix-factorization-using-apache-mxnet/">
 
 ### Installation
 
