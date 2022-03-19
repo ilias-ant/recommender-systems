@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "recommender-systems"
 version = "0.1.0"
-description = "Implementing various Recommender Systems for Amazon review data."
+description = "Implementing various Recommender Systems."
 authors = ["Ilias Antonopoulos <ilias.antonopoulos@yahoo.gr>"]
 readme = "README.md"
 license = "MIT"
