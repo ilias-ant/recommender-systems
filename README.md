@@ -1,9 +1,14 @@
 # recommender-systems
 
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/ilias-ant/recommender-systems/tree/main) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) 
+
 Implementing various Recommender Systems for [Amazon review data](https://nijianmo.github.io/amazon/index.html) as well as [MovieLens](https://grouplens.org/datasets/movielens/).
 
-This project was part of the course **Recommender Systems** at the MSc in Data Science of AUEB, carried out 
-during the Winter Quarter 2021-22.
+This project was part of the course **Recommender Systems** at the MSc in Data Science of AUEB, carried out during the Winter Quarter 2021-22.
+
+<img src="static/mf_factors.png" width="100%">
+
+
 
 ### Installation
 
