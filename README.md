@@ -33,7 +33,7 @@ python3 -m poetry install
 To run any of the available Jupyter notebooks, you can do so through your browser, after having initialized the Jupyter Notebook server with:
 
 ```shell
-poetry run jupyter notebook
+python3 -m poetry run jupyter notebook
 ```
 
 ## Citation
