@@ -12,7 +12,7 @@ Implementing various Recommender Systems for [Amazon review data](https://nijian
 
 This project was part of the course **Recommender Systems** at the MSc in Data Science of AUEB, carried out during the Winter Quarter 2021-22.
 
-<img src="static/mf_factors.png" width="100%" text="source: Courtesy of Jacob Schreiber, used without permission, taken from: https://www.oreilly.com/content/deep-matrix-factorization-using-apache-mxnet/">
+<img src="static/architecture.png" width="100%" text="source: Courtesy of COLINMORRIS | DanB, used without permission, taken from: https://www.kaggle.com/code/colinmorris/matrix-factorization">
 
 ## Installation
 
